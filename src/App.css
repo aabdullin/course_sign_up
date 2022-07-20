@@ -31,7 +31,7 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url("../public/images/bg-intro-mobile.png");
+  /* background-image: url("../public/images/bg-intro-mobile.png"); */
   background-color: hsl(0, 100%, 74%);
   padding: 100px 0;
   margin: 0 auto;
@@ -181,7 +181,7 @@ html {
 
 @media only screen and (min-width: 1000px) {
   #intro {
-    background-image: url("../public/images/bg-intro-desktop.png");
+    /* background-image: url("../public/images/bg-intro-desktop.png"); */
   }
   .container {
     flex-direction: row;
