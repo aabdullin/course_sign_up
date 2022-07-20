@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Sign Up page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Design preview for the Sign Up Page](./design/signup.png)
 
 ## Available Scripts
 
